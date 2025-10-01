@@ -40,19 +40,23 @@ Kode (kontak.html) di atas saya gunakan untuk membuat sebuah formulir sederhana 
 Tampilan index.html
 
 
+
 <img width="1161" height="497" alt="Screenshot 2025-10-01 192014" src="https://github.com/user-attachments/assets/c812c3b9-ae16-40bb-ad19-d4a60bd4aa07" />
 
 Tampilan tentang.html
 
 
-<img width="878" height="507" alt="Screenshot 2025-10-01 192019" src="https://github.com/user-attachments/assets/4fedb26b-af0e-458f-9922-ea10b1c54f44" />
+
+<img width="846" height="501" alt="Screenshot 2025-10-01 193659" src="https://github.com/user-attachments/assets/b56de507-3aa7-4c07-b267-59a4dc72dccd" />
 
 Tampilan berita.html
+
 
 
 <img width="512" height="569" alt="Screenshot 2025-10-01 192025" src="https://github.com/user-attachments/assets/1dfde191-577d-4ef8-954b-bfe61705d399" />
 
 Tampilan kontak.html
+
 
 
 3. KESIMPULAN
