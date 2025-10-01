@@ -33,3 +33,26 @@ Kode (tentang.html) di atas saya gunakan untuk menampilkan struktur organisasi s
 <img width="548" height="305" alt="Screenshot 2025-10-01 192337" src="https://github.com/user-attachments/assets/e8bbdfb6-1a81-4daf-9893-5eaed8389c42" />
 
 Kode (kontak.html) di atas saya gunakan untuk membuat sebuah formulir sederhana berjudul "Formulir Saran & Kritik". Di dalam tag form, saya menambahkan beberapa input, yaitu untuk memasukkan nama dengan input type="text", email dengan input type="email", serta pesan menggunakan textarea. Masing-masing input diberi label label agar pengguna tahu data apa yang harus diisi, dan saya tambahkan atribut id serta name supaya data tersebut bisa dikenali saat dikirim. Untuk berpindah baris, saya memakai tag br. Terakhir, saya menambahkan tombol kirim button type="submit" agar pengguna bisa mengirim data yang mereka isi di formulir. 
+
+
+<img width="1879" height="640" alt="Screenshot 2025-10-01 192007" src="https://github.com/user-attachments/assets/18d12569-2b4a-43b0-b13d-1a79e52265e8" />
+
+Tampilan index.html
+
+
+<img width="1161" height="497" alt="Screenshot 2025-10-01 192014" src="https://github.com/user-attachments/assets/c812c3b9-ae16-40bb-ad19-d4a60bd4aa07" />
+
+Tampilan tentang.html
+
+
+<img width="878" height="507" alt="Screenshot 2025-10-01 192019" src="https://github.com/user-attachments/assets/4fedb26b-af0e-458f-9922-ea10b1c54f44" />
+
+Tampilan berita.html
+
+
+<img width="512" height="569" alt="Screenshot 2025-10-01 192025" src="https://github.com/user-attachments/assets/1dfde191-577d-4ef8-954b-bfe61705d399" />
+
+Tampilan kontak.html
+
+
+
