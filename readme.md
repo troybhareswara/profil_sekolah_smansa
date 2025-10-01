@@ -57,6 +57,6 @@ Tampilan kontak.html
 
 3. KESIMPULAN
 
-Kesimpulan dari praktikum ini adalah saya berhasil membuat layout website profil sekolah dengan HTML semantik sehingga struktur halaman lebih rapi, jelas, dan mudah dipahami. Melalui index.html, tentang.html, dan kontak.html, saya mempraktikkan penggunaan elemen semantik, tabel, serta form, yang membuat website lebih teratur. Dengan praktikum ini, saya semakin memahami pentingnya penggunaan HTML semantik dalam pembuatan website.
+Kesimpulan dari praktikum ini adalah saya berhasil membuat layout website profil sekolah dengan HTML semantik sehingga struktur halaman lebih rapi, jelas, dan mudah dipahami. Melalui index.html, tentang.html, berita.html, dan kontak.html, saya mempraktikkan penggunaan elemen semantik, tabel, serta form, yang membuat website lebih teratur dan berfungsi. Dengan praktikum ini, saya semakin memahami pentingnya penggunaan HTML semantik dalam pembuatan website.
 
 
