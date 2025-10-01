@@ -20,4 +20,4 @@ Dalam praktikum pembuatan layout pemrograman web, pemahaman mengenai HTML dan HT
 
 Pada praktikum ini, HTML digunakan sebagai dasar untuk menyusun struktur halaman web. Elemen-elemen dasar seperti html, head, dan body dipakai untuk membentuk kerangka utama. Selanjutnya, penerapan HTML semantik dilakukan dengan memanfaatkan elemen seperti header untuk bagian kepala halaman, nav untuk navigasi, section untuk isi utama, table untuk membuat table pada HTML, tr (table row) untuk membuat baris pada tabel, td (table data) untuk membuat sel data didalam baris tabel, article untuk konten mandiri, aside untuk konten tambahan atau pendukung, serta footer untuk bagian bawah halaman.
 
-<img width="1176" height="857" alt="Screenshot 2025-10-01 115007" src="https://github.com/user-attachments/assets/dbb7530c-62ae-4f66-904c-17ba11d2d3c4" />
+<img width="776" height="457" alt="Screenshot 2025-10-01 115007" src="https://github.com/user-attachments/assets/dbb7530c-62ae-4f66-904c-17ba11d2d3c4" />
